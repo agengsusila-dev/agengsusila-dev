@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ageng Susila</h1>
-<h3 align="center">Currently undergraduated as Information System Degree and Full-Stack Developer wannabe.</h3>
+<h1 align="left">Hi 👋, I'm Ageng Susila</h1>
+<h3 align="left">Currently undergraduated as Information System Degree and Full-Stack Developer wannabe.</h3>
 
 - 🌱 I’m currently learning **JavaScripts Full-Stacks**
-
 - 📫 How to reach me **agengsusila@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
