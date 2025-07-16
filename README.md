@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, Ageng Susila here</h1>
-<h3 align="left">Currently undergraduated as Information System Degree and Web Developer wannabe.</h3>
+<h3 align="left">"More problem I get, more experience I got.</h3>
 
 - 🌱 I’m currently learning **JavaScript and PHP Full-Stack**
 - 📫 How to reach me **agengsusila@gmail.com**
